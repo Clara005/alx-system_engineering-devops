@@ -2,4 +2,4 @@
 
 #this script should print Hello World 
 
-Echo "Hello World" 
+echo "Hello World" 

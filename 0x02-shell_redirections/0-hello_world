@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#this script should print Hello World 
+
+Echo "Hello World" 
